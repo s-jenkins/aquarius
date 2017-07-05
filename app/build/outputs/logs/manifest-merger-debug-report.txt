@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/simon/.android/build-cache/d06fd16490611b19d2e6cd4c624b957cb3c08fb5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/simon/.android/build-cache/e9a727c0ca11d150cc875eab72b849ce66d795af/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/simon/.android/build-cache/edcaedc928c5c59563740d7746b06b330493b57d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/simon/.android/build-cache/d516e4be4b982a4e7eb85dcbebfe02045a14aa83/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/simon/.android/build-cache/61d13e732cbd4c97676fd7a7d42f6a21485e25bd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/simon/.android/build-cache/48f618b46e5b4d6dba79de0b190aa6e1362fd6ff/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/simon/.android/build-cache/801f0c97f4bccbb6d9c94fd4aa45d51b97f4e071/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/simon/.android/build-cache/b27229d1fe1ae330cfd3d42c116e8f36146a514b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/simon/.android/build-cache/7ecb2f453ce9b4c3cd835603e43007ba805168ac/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:11:9-40
+activity#sdj.com.myapplication.MainActivity
+ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/simon/.android/build-cache/d06fd16490611b19d2e6cd4c624b957cb3c08fb5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/simon/.android/build-cache/e9a727c0ca11d150cc875eab72b849ce66d795af/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/simon/.android/build-cache/edcaedc928c5c59563740d7746b06b330493b57d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/simon/.android/build-cache/d516e4be4b982a4e7eb85dcbebfe02045a14aa83/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/simon/.android/build-cache/61d13e732cbd4c97676fd7a7d42f6a21485e25bd/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/simon/.android/build-cache/48f618b46e5b4d6dba79de0b190aa6e1362fd6ff/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/simon/.android/build-cache/801f0c97f4bccbb6d9c94fd4aa45d51b97f4e071/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/simon/.android/build-cache/b27229d1fe1ae330cfd3d42c116e8f36146a514b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/simon/.android/build-cache/7ecb2f453ce9b4c3cd835603e43007ba805168ac/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/simon/data/git/simon/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/simon/.android/build-cache/d06fd16490611b19d2e6cd4c624b957cb3c08fb5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/simon/.android/build-cache/e9a727c0ca11d150cc875eab72b849ce66d795af/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/simon/.android/build-cache/edcaedc928c5c59563740d7746b06b330493b57d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/simon/.android/build-cache/d516e4be4b982a4e7eb85dcbebfe02045a14aa83/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/simon/.android/build-cache/61d13e732cbd4c97676fd7a7d42f6a21485e25bd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/simon/.android/build-cache/48f618b46e5b4d6dba79de0b190aa6e1362fd6ff/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/simon/.android/build-cache/801f0c97f4bccbb6d9c94fd4aa45d51b97f4e071/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/simon/.android/build-cache/b27229d1fe1ae330cfd3d42c116e8f36146a514b/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/simon/data/git/simon/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/simon/data/git/simon/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

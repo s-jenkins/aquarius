@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/simon/data/git/simon/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/simon/data/git/simon/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/simon/data/git/simon/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/simon/data/git/simon/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/simon/.android/build-cache/c87f336a2555285895ffcd9038b06ce8d7aaae77/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
