@@ -13,10 +13,11 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         webView = (WebView) findViewById(R.id.wvPortal);
-        webView.loadUrl("file:///aquarius.html");
+        webView.loadUrl("file:///android_asset/www/aquarius.html");
         WebSettings settings = webView.getSettings();
         settings.setJavaScriptEnabled(true);
     }
