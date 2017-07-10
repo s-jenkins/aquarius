@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         webView.loadUrl("file:///android_asset/www/aquarius.html");
         WebSettings settings = webView.getSettings();
         settings.setJavaScriptEnabled(true);
+        settings.setDomStorageEnabled(true);
     }
 }
